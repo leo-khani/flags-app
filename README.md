@@ -91,4 +91,4 @@ Open <http://localhost:3000> with your browser to see the result.
 This project was designed and developed by **Leo Khani**.
 
 - **Portfolio:** [LeoKhani.com](https://leokhani.com)
-- **GitHub:** [@your-github-username](https://github.com/leo-khani)
+- **GitHub:** [@leokhani](https://github.com/leo-khani)
