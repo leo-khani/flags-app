@@ -4,7 +4,7 @@
 
 An interactive and beautifully designed web application that allows users to explore countries from around the world. Search for specific nations, filter by region, and test your geography skills with a "Guess the Flag" game. This project was built as a portfolio piece to demonstrate modern, full-stack web development capabilities using Next.js and shadcn/ui.
 
-**Live Demo:** [Link to demo](https://leokhani.com)
+**Live Demo:** [Link to demo](https://flags-app-two.vercel.app/)
 
 ---
 
