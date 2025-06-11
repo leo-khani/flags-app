@@ -54,7 +54,7 @@ Make sure you have Node.js (version 18.x or newer) and npm/yarn/pnpm installed o
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone https://github.com/leo-khani/flags-app
     ```
 
 2.  **Navigate to the project directory:**
@@ -91,4 +91,4 @@ Open <http://localhost:3000> with your browser to see the result.
 This project was designed and developed by **Leo Khani**.
 
 - **Portfolio:** [LeoKhani.com](https://leokhani.com)
-- **GitHub:** [@your-github-username](https://github.com/your-github-username)
+- **GitHub:** [@your-github-username](https://github.com/leo-khani)
